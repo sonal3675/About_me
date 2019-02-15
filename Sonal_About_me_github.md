@@ -26,7 +26,7 @@ Hello! I'm Sonal Basant, a MS in Business Analytics student at the Spears School
 
 -   **Object Detection in Deep Learning**                                    Python, TensorFlow, OpenCV<br /> Created an object detection model to detect street signs and OCR to read license plate numbers.
 
--   **Fake Reviews Detection on YELP **                                     Python<br /> Used NLP and machine learning models to classify reviews on Yelp.com as fake or real and to measure the performance of the classification.
+-   **Fake Reviews Detection on YELP**                                     Python<br /> Used NLP and machine learning models to classify reviews on Yelp.com as fake or real and to measure the performance of the classification.
 
 -   **Predicting Pregnancy Outcome-Stillbirth/Livebirth**       Python, SAS<br /> Using demographics, socio-economic factors and heath conditions of the mother for SAS Global Forum 2019, one of the biggest data science conferences with 5k+ attendees.
 
